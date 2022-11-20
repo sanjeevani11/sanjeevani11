@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sanjeevani11
-- 👀 I’m interested in building and developing forntend web development, languages known, HTML, CSS, C++/C, JAVASCRIPT, BOOTSTRAP, REACT JS.
-- 🌱 I’m currently pursuing B.Tech computer science engineering, currently working on backend skills.
+- 👀 I’m interested in building and developing website, languages known, HTML, CSS, C++/C, JAVASCRIPT, BOOTSTRAP, REACT JS, PYTHON, SQL.
+- 🌱 I have completed my degree B.Tech in Computer Science and engineering(2018-22).
 - 💞️ I’m looking to collaborate on professional learning.
-- 📫 How to reach me  https://www.linkedin.com/in/sanjeevani-sharma-6582b71a0/, https://www.facebook.com/sanjeevani.sharma.79, 
+- 📫 Reach me  https://www.linkedin.com/in/sanjeevani-sharma-6582b71a0/
 
 <!---
 sanjeevani11/sanjeevani11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
